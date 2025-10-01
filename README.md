@@ -27,10 +27,8 @@ pneumonia-detection/
 - Pillow  
 - scikit-learn  
 
-Install packages with:
-
-```bash
-pip install tensorflow numpy matplotlib pillow scikit-learn
+## Install packages with:
+```pip install tensorflow numpy matplotlib pillow scikit-learn```
 
 ## How to Run
 1.Open pneumonia_detection.ipynb in Google Colab.
